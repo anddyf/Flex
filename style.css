@@ -10,7 +10,7 @@ body{
     max-height: 100vh;
 }
 
-.normal {
+.notnormal {
     flex-grow:1;
     height:20%;
     background-color:yellow;
